@@ -1,0 +1,8 @@
+.options .bad {
+    border-bottom: 3px solid #E1553E;
+}
+
+.options .good {
+    border-bottom: 3px solid #69C334;
+}
+
